@@ -1,6 +1,3 @@
-Here's a sample README file for your Netflix Recommendation System project using BERT and MLP:
-
----
 
 # Netflix Recommendation System Using BERT and MLP
 
@@ -116,6 +113,3 @@ Using BERT and MLP in combination offers a powerful and scalable recommendation 
 ### Link to Colab Notebook
 [Netflix Recommendation System Code](https://colab.research.google.com/drive/1QJgWvOXCXQnIq_2YvkBtMy6SywtSbwci)
 
----
-
-This README provides a general guide to understanding and running the Netflix Recommendation System using BERT and MLP.
