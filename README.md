@@ -8,7 +8,7 @@ This project is focused on building a personalized recommendation system for Net
 ### Authors:
 - Harshith Gade (hg355)
 - Sai Nikhil Dunuka (sd2279)
-- Gudisinti Durgaprasad(gd299)
+- Gudisinti Durgaprasad (gd299)
 
 ---
 
